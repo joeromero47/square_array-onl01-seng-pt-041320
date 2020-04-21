@@ -1,3 +1,3 @@
 def square_array(array)
-  array.each {|x| print x "**"}
+  array.each {|array| print x "**"}
 end
